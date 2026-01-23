@@ -23,6 +23,10 @@ public class PraktisGitGithub {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("Statement Added");
+        System.out.println("CC3-CalculatorMDAS");
+        System.out.println("Hello World");
+
 
         System.out.print("Enter Operator: ");
         char isOperators = scanner.next().charAt(0);
